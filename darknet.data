@@ -1,6 +1,6 @@
 classes = 1
-train  = /home/niels/git/learnopencv/YOLOv3-Training-Snowman-Detector/snowman_train.txt
-valid  = /home/niels/git/learnopencv/YOLOv3-Training-Snowman-Detector/snowman_test.txt
-names = /home/niels/git/learnopencv/YOLOv3-Training-Snowman-Detector/classes.names
-backup = /home/niels/git/learnopencv/YOLOv3-Training-Snowman-Detector/weights/
+train  = /<PATH>/YOLOv3-Training-Snowman-Detector/snowman_train.txt
+valid  = /<PATH>/YOLOv3-Training-Snowman-Detector/snowman_test.txt
+names = /<PATH>/YOLOv3-Training-Snowman-Detector/classes.names
+backup = /<PATH>/YOLOv3-Training-Snowman-Detector/weights/
 
