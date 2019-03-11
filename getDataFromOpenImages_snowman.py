@@ -26,7 +26,9 @@ with open('class-descriptions-boxable.csv', mode='r') as infile:
 
 # subprocess.run(['rm', '-rf', 'labels'])
 # subprocess.run([ 'mkdir', 'labels'])
-already_down = 1500
+
+# This variable enables pausing/continuing download
+already_down = 0
 
 for ind in range(0, len(classes)):
     
