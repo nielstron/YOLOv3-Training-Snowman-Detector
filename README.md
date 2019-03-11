@@ -18,6 +18,9 @@ After 12 hours of training on a NVIDIA GTX 1060, decent results can be presented
 ![Result one, detecting a cat in the dark](result1.jpg)
 ![Result two, detecting a thief cat](result2.jpg)
 
+Demo video:
+[![Demo Video](thumb.png)](https://youtu.be/Oyc-UtUpzDk)
+
 #### Original README
 
 
