@@ -1,12 +1,22 @@
+# Cat-detect
+
 This is a slightly optimised version of https://github.com/spmallick/learnopencv, aimed for searching for cats.
 Therefore most of the code here was not written by me, only small changes described below.
 
-Changes:
+#### Changes
+
 - Image download tool
     - uses all available cores for downloading
     - variable for inputting how many images were already downloaded (makes it possible to stop download and restart later)
 - Overall changes to train for cats instead of snowmen
 - Includes weights after 3000 iterations on 1500 images of cats, run as described [here](https://pjreddie.com/darknet/yolo/)
+
+#### Results
+
+After 12 hours of training on a NVIDIA GTX 1060, decent results can be presented
+
+![Result one, detecting a cat in the dark](result1.jpg)
+![Result two, detecting a thief cat](result2.jpg)
 
 #### Original README
 
