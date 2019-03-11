@@ -1,0 +1,10 @@
+JPEGImages*
+labels*
+weights/*
+*.csv
+*.weights
+snowman_test.txt
+snowman_train.txt
+
+.idea/*
+
