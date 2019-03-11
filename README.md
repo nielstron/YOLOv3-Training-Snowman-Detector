@@ -1,3 +1,16 @@
+This is a slightly optimised version of https://github.com/spmallick/learnopencv, aimed for searching for cats.
+Therefore most of the code here was not written by me, only small changes described below.
+
+Changes:
+- Image download tool
+    - uses all available cores for downloading
+    - variable for inputting how many images were already downloaded (makes it possible to stop download and restart later)
+- Overall changes to train for cats instead of snowmen
+- Includes weights after 3000 iterations on 1500 images of cats, run as described [here](https://pjreddie.com/darknet/yolo/)
+
+#### Original README
+
+
 Training YOLOv3 Object Detector - Snowman
 
 1. Install awscli
