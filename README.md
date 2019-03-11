@@ -1,6 +1,6 @@
-# Cat-detect
+# Cat-Detect
 
-This is a slightly optimised version of https://github.com/spmallick/learnopencv, aimed for searching for cats.
+This is a slightly optimised version of https://github.com/spmallick/learnopencv, aimed for searching for/ detecting cats.
 Therefore most of the code here was not written by me, only small changes described below.
 
 #### Changes
